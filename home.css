@@ -79,19 +79,16 @@ header{
 
 .init-bar button{
     padding: 2rem;
-    
-    border-color: #a5b1c2;;
-    border-spacing: 1rem;
+    font-size: 1.6rem;
 
+    border-spacing: 1rem;
     border-top: none;
     border-bottom: none;
-    
 
     border-radius: 4%;
     border-width: 0.25rem;
 
+    border-color: #a5b1c2;;
     background-color: #d1d8e0; 
-
-    font-size: 1.6rem;
 }
 
