@@ -1,0 +1,34 @@
+body{
+    background: url(/images/back.png) no-repeat top;
+    background-size: contain;
+
+    width: 100%;
+    height: 70rem;
+}
+
+@media screen and (max-width: 31.4rem) {
+    html {
+        background-position: center -40rem;
+    }
+
+    .init-page{
+        height: 70rem;
+
+    }
+
+    .init-page h1{
+        margin: -2rem 0;
+        font-size: 4.5rem;
+    }
+
+    .init-page h3{
+        font-size: 1.1rem;
+        letter-spacing: 0.5rem;
+    }
+
+    .init-page p{
+        font-size: 1.5rem;
+        margin: 0.5rem 0rem 0.5rem;
+    }
+}
+

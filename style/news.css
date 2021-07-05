@@ -1,0 +1,31 @@
+.news{
+    width: 100%;
+    height: 63rem;
+
+    background-color: #d2dae2;
+    border-color: var(--background1);
+    border-width: 0.4rem 1.5rem;
+    border-style: solid;
+}
+
+.news h1{
+    text-align: center;
+    font-size: 7rem;
+
+    margin: 1rem;
+}
+
+.events{
+    font-size: 4rem;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.events div{
+    
+}
+
+.vallaki-events img{
+    width: 34.875rem;
+    height: 44.25rem;
+}
