@@ -33,7 +33,7 @@
     text-indent: 3rem;
 }
 
-ol{
+.texto-welcome ol{
     font-size: 1.85rem;
     font-family: 'Benne', serif;
     list-style: upper-roman;

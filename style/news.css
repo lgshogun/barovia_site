@@ -17,15 +17,26 @@
 
 .events{
     font-size: 4rem;
-    text-align: center;
-    font-variant: small-caps;
 }
 
 .events div{
-    
+    float: left;
+    width: 33%;
+    text-align: center;
 }
 
 .vallaki-events img{
-    width: 34.875rem;
-    height: 44.25rem;
+    padding: 2rem 0 0;
+    width: 30.875rem;
+    height: 40.25rem;
 }
+
+.krezk-events h3{
+    padding: 0 0 17.5rem;
+}
+
+.berez-events h3{
+    padding: 0 0 2rem;
+}
+
+

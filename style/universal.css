@@ -36,7 +36,7 @@ html{
     font-size: 62.5%;
     background-color: var(--background1);
 
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
 
 audio{

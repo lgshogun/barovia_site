@@ -1,0 +1,43 @@
+.contact{
+    width: 100%;
+    height: 63rem;
+
+    background-color: #d2dae2;
+    border-color: var(--background1);
+    border-width: 0.4rem 1.5rem;
+    border-style: solid;
+}
+
+.contact h1{
+    font-size: 7rem;
+    text-align: left;
+    text-indent: 4rem;
+}
+
+.texto-contatos{
+    margin: 2rem;
+    width: 20%;
+
+    background-color: grey;
+}
+
+.texto-contatos p{
+    font-size: 1.7rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.texto-contatos ol{
+    margin: 0 2rem;
+    font-size: 1.3rem;
+    list-style:upper-roman
+}
+
+.texto-contatos h3{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.texto-contatos img{
+    height: 30rem;
+}
